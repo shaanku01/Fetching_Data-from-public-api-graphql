@@ -1,0 +1,8 @@
+#card{
+    border: 1px solid black;
+    margin: 10px;
+}
+#image{
+    width: 200px;
+    height: 200px;
+}
